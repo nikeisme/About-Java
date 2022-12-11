@@ -5,7 +5,7 @@ public class Camouflage {
     public int solution(String[][] clothes) {
 
         HashMap<String,Integer> map = new HashMap<>();
-//        1.옷을 종류별로 분류
+//        1.옷을 종류별로 분류함.
         for(String[] clothe : clothes){
             String type = clothe[1];
             map.put(type, map.getOrDefault(type,0)+1);
