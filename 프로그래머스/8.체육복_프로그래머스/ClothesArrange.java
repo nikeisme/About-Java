@@ -13,7 +13,7 @@ public class ClothesArrange {
         for (int r : reverse)
             student[r]++;
 
-        // 3. 여분을 기준으로 앞뒤를 확인하여 체육복을 빌려준다.
+        // 3. 여분을 기준으로 앞뒤를 확인
         for ( int i=1; i<=n; i++){
             if(student[i]==1){
                 if(student[i-1]==-1){
@@ -27,7 +27,7 @@ public class ClothesArrange {
             }
         }
 
-        // 4. 체육복을 갖고 있는 학생 수를 계산한다.
+        // 4. 체육복을 갖고 있는 학생 수를 계산
 
         for(int i = 1; i<=n;i++)
             if(student[i]>=0)
