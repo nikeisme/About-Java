@@ -18,7 +18,7 @@ public class ArrayEx2 {
         }
 
         for (int i=0; i<iArr2.length; i++) {
-            iArr2[i] = (int) Math.random()*10 +1;  // 1~10의 값을 배열에 작성
+            iArr2[i] = (int) (Math.random()*10) +1;  // 1~10의 값을 배열에 작성
         }
 
         // 배열에 저장된 값들을 출력한다.
@@ -28,7 +28,9 @@ public class ArrayEx2 {
 
         System.out.println();
         System.out.println(Arrays.toString(iArr2));
-
+        System.out.println(Arrays.toString(chArr));
+        System.out.println(iArr3);
+        System.out.println(chArr);
     }
 
 }
