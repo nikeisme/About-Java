@@ -24,4 +24,4 @@ public class ArrayEx7 {
             System.out.print(numArr[i]);
 
     } // end of main
-}// end of classArrayEx7
+}// end of classArrayArrayEx7Ex7
