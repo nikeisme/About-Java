@@ -1,3 +1,5 @@
+package Array;
+
 // 다차원 배열
 // 배열 score의 모든 요소의 합을 구하고, 출력하는 예제
 public class ArrayEx18 {

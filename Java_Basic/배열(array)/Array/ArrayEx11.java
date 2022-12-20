@@ -1,3 +1,5 @@
+package Array;
+
 // 임의의 값으로 배열 채우기
 public class ArrayEx11 {
 

@@ -1,3 +1,5 @@
+package Array;
+
 // 커맨드 라인을 통해 입력받기
 public class ArrayEx16 {
 

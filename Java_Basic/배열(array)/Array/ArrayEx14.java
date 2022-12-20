@@ -1,3 +1,5 @@
+package Array;
+
 // char배열을 String 클래스로 변환
 public class ArrayEx14 {
 

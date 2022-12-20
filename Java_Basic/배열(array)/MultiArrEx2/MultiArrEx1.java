@@ -1,4 +1,4 @@
-// 좌표에 x 표하기
+package MultiArrEx2;// 좌표에 x 표하기
 
 import java.util.*;
 

@@ -1,10 +1,12 @@
+package Array;
+
 // 커맨드 라인을 통해 입력받기
 public class ArrayEx17 {
 
     public static void main(String[] args) {
 
         if(args.length !=3){ // 입력된 값의 개수가 3개가 아니면,
-            System.out.println("usage : java ArrayEx17 NUM1 OP NUM2");
+            System.out.println("usage : java Array.ArrayEx17 NUM1 OP NUM2");
             System.out.println(0); // 프로그램 종료
         }
 

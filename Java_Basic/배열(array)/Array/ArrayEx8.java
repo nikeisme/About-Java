@@ -1,3 +1,5 @@
+package Array;
+
 // 섞기 (shuffle)
 public class ArrayEx8 {
 

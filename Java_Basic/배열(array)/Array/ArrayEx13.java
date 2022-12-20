@@ -1,3 +1,5 @@
+package Array;
+
 // 16진수를 2진수로 변경하는 예제
 public class ArrayEx13 {
 

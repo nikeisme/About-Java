@@ -1,3 +1,5 @@
+package Array;
+
 // 문자열을 모르스부호로 변환
 public class ArrayEx15 {
 

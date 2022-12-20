@@ -1,3 +1,5 @@
+package Array;
+
 // 5명의 학생의 세 과목 점수를 더해서 각 학생의 총점과 평균 계산 후, 과목별 총점 계산
 public class ArrayEx19 {
 
