@@ -12,7 +12,7 @@ public class MultiArrEx2 {
       int[][] bingo = new int[SIZE][SIZE];
       Scanner scanner = new Scanner(System.in);
 
-      // 배열의 모든 요소를 1부터 SIZE * SIZE까지의 숫자로 초기화
+      // 배열의 모든 요소를 1부터 SIZE * SIZE 까지의 숫자로 초기화
         for (int i = 0; i < SIZE; i++)
             for (int j = 0; j < SIZE; j++)
                 bingo[i][j] = i * SIZE + j +1 ;
