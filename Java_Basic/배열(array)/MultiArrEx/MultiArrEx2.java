@@ -1,4 +1,4 @@
-package MultiArrEx2;// 빙고
+package MultiArrEx;// 빙고
 
 import java.util.*;
 

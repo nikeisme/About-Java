@@ -1,6 +1,4 @@
-package MultiArrEx2;// 빙고
-
-import java.util.Scanner;
+package MultiArrEx;// 빙고
 
 public class MultiArrEx3 {
 
