@@ -8,7 +8,7 @@ public class CardTest {
         Card c1 = new Card();
         c1.kind = "Heart";
         c1.number = 7;
-        
+
         Card c2 = new Card();
         c2.kind = "Spade";
         c2.number = 4;
