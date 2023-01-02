@@ -30,5 +30,5 @@ public class MemberCall {
         staticMethod(); // 모두 인스턴스 생성없이 바로 호출이 가능하다.
         instanceMethod1();
     }
-    
+
 }
