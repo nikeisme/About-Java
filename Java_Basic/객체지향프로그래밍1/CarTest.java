@@ -1,6 +1,6 @@
 class Car {
     String color; // 색상
-    String gearType; // 변속기 종류 - auto(자동),manual(수동)
+    String gearType; // 변속기 종류
     int door ; // 문의 개수
 
     Car(){}
