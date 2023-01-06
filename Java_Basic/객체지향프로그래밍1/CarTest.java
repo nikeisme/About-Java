@@ -4,8 +4,6 @@ class Car {
     int door ; // 문의 개수
 
     Car(){}
-
-    // 매개변수가 있는 생성자를 사용할 때, 인스턴스를 생성하는 동시에 원하는 값으로 초기화 가능
     Car(String c, String g, int d) {
         color = c;
         gearType = g;
