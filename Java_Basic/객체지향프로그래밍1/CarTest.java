@@ -1,7 +1,7 @@
 class Car {
     String color; // 색상
     String gearType; // 변속기 종류
-    int door ; // 문의 개수
+    int door ; // 문의 수
 
     Car(){}
     Car(String c, String g, int d) {
